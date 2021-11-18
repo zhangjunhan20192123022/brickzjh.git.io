@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+   ## 个人简历
+   ### 个人联系方式
+       -手机：13559552303
+       -Email：349773911@qq.com
+   
+   
+   ### 个人信息
+       -张俊瀚/男/2000.11.05
+       -本科/云南大学滇池学院/软件工程 2019-2023
+       -工作年限：
+       -技术博客：http：//brickzjh.github.io
+       -Github：http：//github.com/brickzjh
+       
+   ### 工作经历
+   #### XXX公司（XXXX.X~至今）
+   **项目描述：**
+   该项目主要是XXXX。
+   **实现技术**
+   
+   
+   **职责描述**
+   1.
+   2.
+   3.
+   
+   
+   ##### 其他项目
+      - ‘XXXX项目’：该项目是XXXX，使用XXXX技术，完成XXXX功能
+      
 
-You can use the [editor on GitHub](https://github.com/zhangjunhan20192123022/brickzjh.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhangjunhan20192123022/brickzjh.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   ### 开源共享
+   
